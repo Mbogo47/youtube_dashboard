@@ -4,6 +4,9 @@ A dashboard analysing my youtube watch history from 2019 - 2025
 ## Overview
 This project is a data visualization dashboard that analyzes my YouTube watch history. It provides insights into my viewing habits and other key trends. The dashboard was created using Python, Pandas, and a visualization tool such as Tableau
 
+## Live Link
+[Access the Dashboard Here](https://public.tableau.com/app/profile/ivy.mbogo/viz/YoutubeWatchHistoryAnalysis2018-2025/YoutubeAnalytics)
+
 ## Process
 ### 1. Extracting Data
 - Downloaded my YouTube watch history from Google Takeout.
